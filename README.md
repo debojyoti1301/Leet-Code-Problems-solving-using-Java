@@ -1,1 +1,2 @@
-# Leet-Code-Problems-solving-using-Java
+# Questions 
+1.The Two Sneaky Numbers of Digitville 
